@@ -28,6 +28,7 @@
  '(magit-use-overlays nil)
  '(only-global-abbrevs t)
  '(org-agenda-custom-commands nil)
+ '(org-agenda-files nil)
  '(org-agenda-ndays 1)
  '(org-agenda-show-all-dates t)
  '(org-agenda-skip-deadline-if-done t)
